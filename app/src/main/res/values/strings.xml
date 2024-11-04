@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GaleryApp</string>
+
+    <string name="rick">Rick Sanchez</string>
+    <string name="rick_year">2013</string>
+    <string name="morty">Morty Smith</string>
+    <string name="morty_year">2020</string>
+    <string name="summer">Summer Smith</string>
+    <string name="summer_year">2018</string>
+    <string name="beth">Beth Smith</string>
+    <string name="beth_year">2015</string>
+    <string name="jerry">Jerry Smith</string>
+    <string name="jerry_year">2016</string>
+</resources>
